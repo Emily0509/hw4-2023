@@ -110,10 +110,12 @@ img{
 
   
   /* Requirement 11 code here -- Do not remove this comment. */
-  a.skip:hover{
+  a.skip{
     position: absolute;
     margin-left: 0px;
     margin-top: 20px;
+  }
+  a.skip:hover{
     text-decoration-line: overline;
     text-decoration-color: yellow;
     outline: none;
