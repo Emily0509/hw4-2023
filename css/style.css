@@ -13,7 +13,7 @@ a.skip{
 
   /* Requirement 2 code here -- Do not remove this comment. */
 nav a:hover{
-  text-decoration-line: overline  ;
+  text-decoration-line: overline;
   text-decoration-color: yellow;
   outline: none;
   text-decoration-thickness: 10px;
@@ -110,9 +110,14 @@ nav a:hover{
 
   
   /* Requirement 11 code here -- Do not remove this comment. */
-  .skip:hover{
-    margin-left: 0;
-    margin-top: 20px;
+  a.skip{
+    margin: 20px 0 0 0;
+  }
+  a.skip:hover{
+    text-decoration-line: overline;
+    text-decoration-color: yellow;
+    outline: none;
+    text-decoration-thickness: 10px;
   }
 
   /* Requirement 12 code here -- Do not remove this comment. */
@@ -133,7 +138,9 @@ nav a:hover{
   }
 
   /* Requirement 15 code here -- Do not remove this comment. */
+  .clients-image{
 
+  }
 
 }
 
