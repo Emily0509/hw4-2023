@@ -7,8 +7,8 @@ a.skip{
   z-index: 1;
   /* Requirement 1 code here -- Do not remove this comment. */
   position: absolute;
-  margin-left: -400px;
-  margin-top: -200px;
+  left: -400px;
+  top: -200px;
 }
 
 
